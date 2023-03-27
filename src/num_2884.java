@@ -5,6 +5,5 @@ public class num_2884 {
         Scanner sc = new Scanner(System.in);
         int h = sc.nextInt();
         int m = sc.nextInt();
-        if(m<)
     }
 }
