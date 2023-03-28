@@ -20,9 +20,9 @@ public class num_2480 {
             System.out.println(1000+(a[1]*100));
         } else if (a[0]==a[2]) {
             System.out.println(1000+(a[0]*100));
-        } else{
+        } else {
             for(i=0; i<2; i++){
-                if(a[i]<a[i+1]){
+                if(max<a[i+1]){
                     max = a[i+1];
                 }
             }
